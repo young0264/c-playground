@@ -7,7 +7,7 @@ int main(){
     int input;
     char name[] = "남의영";
     char department[] = "컴퓨터과학과";
-    char studentID[] = "12";
+    char studentID[] = "202334-363719";
 
     printf("5부터 10 사이의 짝수를 입력하시오 \n (0을 입력시 프로그램 종료)\n");
 
