@@ -1,8 +1,8 @@
 //
-// Created by euiyoung on 2024. 5. 8..
+// Created by euiyoung on 2024. 5. 10..
 //
-
 #include <stdio.h>
+#include <stdbool.h>
 
 int main(){
     int input;
@@ -38,5 +38,4 @@ int main(){
         }
     }
     return 0;
-
 }
